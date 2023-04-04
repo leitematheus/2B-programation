@@ -1,1 +1,14 @@
+:root {
+    --azul-mar: #08416D;
+    --azul-jeans: #0D5589;
+    --azul-eclesiástico: #42607B;
+    --cinzão: #B9BBBE;
+}
 
+.cabecalho{
+    background-color: var(--azul-jeans);
+}
+
+.logo{
+    width: 15%;
+}
