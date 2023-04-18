@@ -1,8 +1,13 @@
 :root {
     --azul-mar: #08416D;
     --azul-jeans: #0D5589;
-    --azul-eclesiástico: #42607B;
-    --cinzão: #B9BBBE;
+    --azul-eclesiastico: #42607B;
+    --cinzao: #B9BBBE;
+}
+
+*{
+     margin: 0%;
+     padding: 0%;
 }
 
 .cabecalho{
@@ -22,4 +27,10 @@
 .logo{
     width: 15%;
     margin: 10px;
+}
+
+
+.principal{
+ background-color: var(--azul-eclesiastico);
+ color: var(--cinzao);
 }
